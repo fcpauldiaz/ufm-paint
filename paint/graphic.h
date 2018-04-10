@@ -1,8 +1,3 @@
-/**
- * Pablo Díaz 6/02/2017
- * Universidad del Valle de Guatemala
- * Paint en C++ y assembler de Intel
- */
 
 long resolY, resolX;
 char currentPage;
